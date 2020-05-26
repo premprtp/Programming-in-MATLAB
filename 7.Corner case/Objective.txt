@@ -1,0 +1,12 @@
+Write a function called corners that takes a matrix as an input argument and returns four outputs:
+	the elements at its four corners in this order:
+		top_left,top_right,bottom_left and bottom_right
+
+
+note:the loops and if-statements are neither necessary nor allowed.
+
+>>[a, b, c, d] = corners([1 2; 3 4])
+a=1
+b=2
+c=3
+d=4
