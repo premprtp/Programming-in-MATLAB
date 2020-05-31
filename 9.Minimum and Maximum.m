@@ -3,7 +3,7 @@
 %You have already given calling function
 [mmr, mmm] = minimax([1:4;5:8;9:12])
 
-%below is the sectionn where you have to create function to give exert value.
+%below is the section where you have to create function to give exert value.
 
 FUNCTION
 
